@@ -2,6 +2,9 @@
 
 Google Trends insight in understanding what drives Norwegians into purchasing an electric vehicle
 
+# Data Story:
+https://norway-ev-highway.github.io/Norway_EV_Highway/
+
 # Abstract:
 
 Norway is well advanced compared to other countries in the expansion of its electric vehicle (EV) fleet thanks to strong incentives (100% tax for combustion vehicles which are exempted for EV). It has even reached the top place in total EV sales despite its country size. Understanding the evolution of EV car sales in Norway could help predicting future sales in other countries. 
